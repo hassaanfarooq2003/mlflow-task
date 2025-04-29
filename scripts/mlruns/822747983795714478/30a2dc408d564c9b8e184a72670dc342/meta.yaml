@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hassa/OneDrive/Desktop/Mlops/Tasks/8/mlfflow-class-task-hassaanfarooq2003/scripts/mlruns/822747983795714478/30a2dc408d564c9b8e184a72670dc342/artifacts
+end_time: 1745912402163
+entry_point_name: ''
+experiment_id: '822747983795714478'
+lifecycle_stage: active
+run_id: 30a2dc408d564c9b8e184a72670dc342
+run_name: gentle-quail-769
+run_uuid: 30a2dc408d564c9b8e184a72670dc342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745912395962
+status: 3
+tags: []
+user_id: hassa

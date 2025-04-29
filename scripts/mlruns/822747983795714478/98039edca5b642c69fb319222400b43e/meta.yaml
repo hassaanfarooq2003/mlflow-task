@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hassa/OneDrive/Desktop/Mlops/Tasks/8/mlfflow-class-task-hassaanfarooq2003/scripts/mlruns/822747983795714478/98039edca5b642c69fb319222400b43e/artifacts
+end_time: 1745912192489
+entry_point_name: ''
+experiment_id: '822747983795714478'
+lifecycle_stage: active
+run_id: 98039edca5b642c69fb319222400b43e
+run_name: languid-slug-851
+run_uuid: 98039edca5b642c69fb319222400b43e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745912192473
+status: 4
+tags: []
+user_id: hassa

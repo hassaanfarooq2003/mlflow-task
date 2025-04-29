@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/hassa/OneDrive/Desktop/Mlops/Tasks/8/mlfflow-class-task-hassaanfarooq2003/scripts/mlruns/822747983795714478/3e7fdce8e4544e54aef30e1b6c7ee100/artifacts
+end_time: 1745912770259
+entry_point_name: ''
+experiment_id: '822747983795714478'
+lifecycle_stage: active
+run_id: 3e7fdce8e4544e54aef30e1b6c7ee100
+run_name: judicious-cow-524
+run_uuid: 3e7fdce8e4544e54aef30e1b6c7ee100
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745912770181
+status: 3
+tags: []
+user_id: hassa

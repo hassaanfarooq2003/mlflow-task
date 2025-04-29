@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/428102232661234436
+creation_time: 1745912923451
+experiment_id: '428102232661234436'
+last_update_time: 1745912923451
+lifecycle_stage: active
+name: ARIMA_Time_Series

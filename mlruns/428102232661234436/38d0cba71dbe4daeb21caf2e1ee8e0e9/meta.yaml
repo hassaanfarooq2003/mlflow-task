@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/428102232661234436/38d0cba71dbe4daeb21caf2e1ee8e0e9/artifacts
+end_time: 1745912923862
+entry_point_name: ''
+experiment_id: '428102232661234436'
+lifecycle_stage: active
+run_id: 38d0cba71dbe4daeb21caf2e1ee8e0e9
+run_name: popular-panda-431
+run_uuid: 38d0cba71dbe4daeb21caf2e1ee8e0e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745912923684
+status: 3
+tags: []
+user_id: hassa
