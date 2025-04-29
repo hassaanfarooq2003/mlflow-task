@@ -1,0 +1,4 @@
+#add venv in it
+venv/
+mlruns/
+fast_api_key.perm
