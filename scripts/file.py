@@ -57,7 +57,7 @@ def log_modeling_with_mlflows(data_path, order):
 
 if __name__ == "__main__":
     # Read and clean the data
-    df = pd.read_csv("stock_data.csv", skiprows=3, names=["Date", "Close"])
+    df = pd.read_csv("./stock_data.csv", skiprows=3, names=["Date", "Close"])
     df["Close"] = pd.to_numeric(df["Close"], errors="coerce")
     df = df.dropna(subset=["Close"])
     data = df["Close"].values

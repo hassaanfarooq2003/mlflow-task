@@ -5,7 +5,7 @@ import pandas as pd
 app = FastAPI()
 
 # Load the ARIMA model
-with open("scripts/arima_model.pkl", "rb") as f:
+with open("./scripts/arima_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 @app.get("/")

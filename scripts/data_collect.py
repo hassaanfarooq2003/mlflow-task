@@ -8,4 +8,4 @@ def fetch_stock_data(ticker="AAPL", period="2y"):
     return stock_data
 if __name__ == "__main__":
     data = fetch_stock_data()
-    data.to_csv("stock_data.csv")
+    data.to_csv("./stock_data.csv")
